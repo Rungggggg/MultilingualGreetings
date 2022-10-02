@@ -1,0 +1,22 @@
+.greetings-item{
+  list-style-type: none;
+  margin: 22px;
+  
+}
+.language-btn{
+  height: 50px;
+  width: 100px;
+  color: #db1c48;
+  padding: 8px;
+  border: 1px solid #db1c48;
+  border-radius: 25%;
+  outline: none;
+  font-family: "Roboto";
+  font-size: 22px;
+  font-weight: normal;
+  cursor: pointer;
+}
+.active{
+  color: #fff;
+  background-color: #db1c48;
+}
